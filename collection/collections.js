@@ -1,0 +1,1 @@
+Permission = new Mongo.Collection('permissions');
